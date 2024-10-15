@@ -25,7 +25,7 @@ This repository is dedicated to the study of Arrays in Data Structures and Algor
 
 | Problem Title                                | Link                                                  | Description                                                          |
 |----------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------|
-| Maximum Subarray Sum                         | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Find the contiguous subarray with the largest sum.                  |
+| Largest Element in the array                         | [GFG](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array) | Finding largest element in the array.                  |
 | Rotate Array                                 | [LeetCode](https://leetcode.com/problems/rotate-array/) | Rotate the elements of an array to the right by `k` steps.         |
 | Two Sum                                      | [LeetCode](https://leetcode.com/problems/two-sum/) | Find two numbers that add up to a specific target.                  |
 | Container With Most Water                    | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Find two lines that form a container that holds the most water.     |
